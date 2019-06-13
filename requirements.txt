@@ -1,0 +1,7 @@
+Django>=2
+psycopg2-binary
+djangorestframework
+bcrypt
+scrapy
+setuptools
+mysqlclient
